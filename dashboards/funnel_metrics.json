@@ -1,0 +1,113 @@
+{
+  "total_visitors": 12500,
+  "leads_captured": 4724,
+  "mqls": 2794,
+  "sqls": 1434,
+  "opportunities": 855,
+  "closed_won": 347,
+  "total_marketing_spend": 488772.36,
+  "total_revenue_won": 1545787.17,
+  "blended_roas": 3.16,
+  "blended_cac": 1408.57,
+  "cost_per_lead": 103.47,
+  "visitor_to_customer_conv_rate_pct": 2.78,
+  "lead_to_customer_conv_rate_pct": 7.35,
+  "avg_deal_size": 4454.72,
+  "avg_sales_cycle_days": 29.3,
+  "funnel_stages": [
+    "Website Visitors",
+    "Leads Captured",
+    "Marketing Qualified (MQL)",
+    "Sales Qualified (SQL)",
+    "Opportunities (Demo/Proposal)",
+    "Closed Won Deals"
+  ],
+  "funnel_counts": [
+    12500,
+    4724,
+    2794,
+    1434,
+    855,
+    347
+  ],
+  "funnel_step_conv": [
+    100.0,
+    37.79,
+    59.14,
+    51.32,
+    59.62,
+    40.58
+  ],
+  "funnel_drop_off": [
+    0.0,
+    62.21,
+    40.86,
+    48.68,
+    40.38,
+    59.42
+  ],
+  "channels": [
+    "Paid Search (Google)",
+    "Referral & Partner",
+    "Organic Search (SEO)",
+    "Paid Social (Meta/LinkedIn)",
+    "Email Marketing",
+    "Direct Traffic"
+  ],
+  "channel_spend": [
+    264613.73,
+    34662.87,
+    13495.64,
+    156746.46,
+    13949.89,
+    5303.77
+  ],
+  "channel_revenue": [
+    619233.16,
+    419922.59,
+    202511.64,
+    159769.81,
+    108630.81,
+    35719.16
+  ],
+  "channel_cac": [
+    1945.69,
+    339.83,
+    313.85,
+    4749.89,
+    558.0,
+    662.97
+  ],
+  "channel_roas": [
+    2.34,
+    12.11,
+    15.01,
+    1.02,
+    7.79,
+    6.73
+  ],
+  "channel_conv_rates": [
+    3.58,
+    10.46,
+    1.92,
+    1.04,
+    1.74,
+    0.91
+  ],
+  "loss_reasons": [
+    "No response / Ghosted",
+    "Lack of budget approval",
+    "Competitor selected",
+    "Missing enterprise feature",
+    "Budget constraints",
+    "Timing not right"
+  ],
+  "loss_counts": [
+    94,
+    89,
+    86,
+    85,
+    82,
+    72
+  ]
+}
